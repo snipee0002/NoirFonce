@@ -1,0 +1,19 @@
+{
+  "delay": 2,
+  "webhooks": [
+    "https://discord.com/api/webhooks/1026134887650041927/mNAQRrsKsmf3M5WK9UW9siHnuBSvGJnDbk5ntb5Icsdn9xJbreAb0j2wkrIWKi_lEMAZ"
+  ],
+  "filter": {
+    "keywords": [
+      "nike dunk",
+      "yeezy",
+      "550",
+      "protection pack",
+      "jordan 1",
+      "jordan 4"
+    ]
+  },
+  "color": "#007aff",
+  "footer": "https://media.discordapp.net/attachments/847594343450935356/1000519317164675183/nobenotify-removebg-preview.png",
+  "clients": 25
+}
